@@ -4,6 +4,7 @@
 ra = '00:42:44.3'
 dec = '41:16:09'
 
+
 def clip_to_radius():
 	ra=float(input())
 	dec=float(input())
