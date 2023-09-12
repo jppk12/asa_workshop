@@ -1,7 +1,7 @@
 # Determine Andromeda location in ra/dec degrees
 
 # from wikipedia
-ra = '00:42:44.3'
+ra = '00:11:44.3'
 dec = '41:16:09'
 
 
