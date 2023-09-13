@@ -1,0 +1,12 @@
+setup.py
+mymodule/__init__.py
+mymodule/sky_sim.py
+mymodule/submod1.py
+mymodule/submod2.py
+mymodule.egg-info/PKG-INFO
+mymodule.egg-info/SOURCES.txt
+mymodule.egg-info/dependency_links.txt
+mymodule.egg-info/entry_points.txt
+mymodule.egg-info/top_level.txt
+scripts/runme
+tests/test_sky_sim.py
